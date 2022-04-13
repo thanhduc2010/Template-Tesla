@@ -37,8 +37,8 @@ body{
 }
 
 .navbar-tesla .navbar-brand{
-    padding-left: 49px;
-    margin-right: 83px;
+    padding-left: 20px;
+    margin-right: 100px;
     font-size: 25px;
     font-weight: 10;
     line-height: 32px;
@@ -64,8 +64,10 @@ body{
 }
 
 .header .navbar-nav-right{
-    padding-right: 18px;
+    padding-right: 0px;
 }
+
+
 /* Content */
 
 .content{
@@ -85,9 +87,9 @@ body{
 
 .content .banner .banner-content{
     position: absolute;
-    left: 28.5%;
+    left: 29.5%;
     color: white;
-    top: 15.8%;
+    top: 16.2%;
     text-align: center;
     font-family: "Gotham-XLight";
 }
@@ -112,8 +114,8 @@ body{
 .search-banner{
     width: 100%;
     min-height: 100px;
-    margin-top: 50px;
-    margin-bottom: 140px;
+    margin-top: 56px;
+    margin-bottom: 142px;
 }
 
 .search-banner .search-banner-form{
@@ -121,6 +123,7 @@ body{
     height: 40px;
     width: 320px;
     margin-bottom: 25px;
+    margin-left: 13px;
 }
 
 .search-banner .search-banner-form form{
@@ -133,7 +136,7 @@ body{
 }
 
 .search-banner .search-banner-form-input{
-    width: 70%;
+    width: 68%;
     
 }
 
@@ -188,7 +191,8 @@ body{
 /* Featured Jobs*/
 .featured-job{
     width: 100%;
-    margin-bottom: 120px;
+    margin-bottom: 144px;
+    margin-left: 7px;
 }
 
 
@@ -205,6 +209,7 @@ body{
     border: none;
     border-radius: 20px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
 }
 
 .featured-job .card img{
@@ -246,11 +251,11 @@ body{
     display: flex;
     width: 100%;
     min-height: 100px;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 .working-at-tesla-content-left{
-    width: 27%;
+    width: 25.5%;
     min-height: 100px;
     /* background-color: red; */
     text-align: end;
@@ -260,7 +265,7 @@ body{
     font-size: 24px;
     font-weight: 600;
     color: #171a20;
-    margin-bottom: 30px;
+    margin-bottom: 28px;
 }
 
 .working-at-tesla-content-left button{
@@ -283,7 +288,7 @@ body{
 .working-at-tesla-content-right{
     width: 38%;
     min-height: 100px;
-    margin-left: 7%;
+    margin-left: 9.2%;
 }
 
 .working-at-tesla-content-right p{
@@ -316,21 +321,21 @@ body{
     display: flex;
     width: 100%;
     min-height: 100px;
-    margin-top: 75px;
+    margin-top: 82px;
 }
 
 .student-opp-content-left{
     width: 32.5%;
     min-height: 100px;
     text-align: start;
-    margin-left: 10%;
+    margin-left: 9%;
 }
 
 .student-opp-content-left h1{
     font-size: 28px;
     font-weight: 600;
     color: #ffffFf;
-    margin-bottom: 30px;
+    margin-bottom: 28px;
 }
 
 .student-opp-content-left button{
@@ -372,7 +377,7 @@ body{
 
 .our-community .our-community-content{
     width: 58%;
-    margin-left: 12%;
+    margin-left: 11%;
     min-height: 50px;
     
 }
@@ -380,8 +385,8 @@ body{
 .our-community .our-community-content h1{
     font-size: 24px;
     font-weight: 700;
-    margin-bottom: 30px;
-    padding-top: 80px;
+    margin-bottom: 20px;
+    padding-top: 90px;
     
 }
 
@@ -392,9 +397,9 @@ body{
 
 
 .our-community .our-cummunity-img-text{
-    width: 76%;
+    width: 78%;
     margin: auto;
-    margin-top: 80px;
+    margin-top: 60px;
 }
 
 .our-community .our-community-img img{
@@ -407,14 +412,15 @@ body{
 .our-community .our-community-text{
     display: flex;
     width: 100%;
-    margin-top: 40px;
+    margin-top: 30px;
+    margin-bottom: 70px
    
 }
 
 
 .our-community .our-cummunity-img-text .our-community-text-title{
     /* width: 30%; */
-    margin-right: 50px;
+    margin-right: 70px;
    
 }
 
@@ -442,7 +448,7 @@ body{
     width: 100%;
     margin: auto;
     text-align: center;
-    margin-top: 80px;
+    margin-top: 75px;
     
 }
 
@@ -496,7 +502,7 @@ body{
 
 
 .our-community .tesla-text{
-    width: 76%;
+    width: 81%;
     margin: auto;
     margin-top: 210px;
     font-size: 12px;
@@ -505,7 +511,7 @@ body{
 .our-community .footer{
     background-color: #000;
     height: 50px;
-    margin-top: 80px;
+    margin-top: 70px;
 }
 
 .footer ul li a{
